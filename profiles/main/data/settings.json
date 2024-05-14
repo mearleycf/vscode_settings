@@ -1,0 +1,23 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "slinkwave",
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "LigaSauceCodePro Nerd Font",
+  "editor.fontSize": 14,
+  "chat.editor.fontFamily": "LigaSauceCodePro Nerd Font",
+  "chat.editor.fontSize": 14,
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "syncSettings.resources": [
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ]
+}
